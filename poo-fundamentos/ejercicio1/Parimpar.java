@@ -9,12 +9,5 @@ public class Parimpar {
       ParesImpares utilidad = new ParesImpares();
       int arreglo[] = utilidad.getArreglo();
        
-   
-      /*ParesImpares parimpar = new ParesImpares();
-      System.out.println("El arreglo de numero es:" + ParesImpares.arreglo);
-      
-      ParesImpares ObtenArreglo = new ParesImpares();
-      System.out.println("El arreglo de numero es:" + ParesImpares.ObtenArreglo);*/
-      
      }
 }
