@@ -10,7 +10,7 @@ public class ParesImpares{
    }*/
         
    public int[] getArreglo (){
-      int arreglo[] = {1, 2, 3};
+      int arreglo[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
       return arreglo;
    }     
  }

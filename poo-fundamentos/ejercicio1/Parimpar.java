@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Parimpar {
 
@@ -8,6 +9,8 @@ public class Parimpar {
       //tipoDato nombrevariable = valorInicializado;
       ParesImpares utilidad = new ParesImpares();
       int arreglo[] = utilidad.getArreglo();
+      
+      System.out.println(Arrays.toString(arreglo));
        
      }
 }
