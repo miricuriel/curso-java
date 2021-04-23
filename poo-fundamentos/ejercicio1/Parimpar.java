@@ -11,6 +11,10 @@ public class Parimpar {
       int arreglo[] = utilidad.getArreglo();
       
       System.out.println(Arrays.toString(arreglo));
-       
+      
+      System.out.println(utilidad.identifyParesimpares(arreglo, "par"));
+      System.out.println(utilidad.identifyParesimpares(arreglo, "impar"));
+      System.out.println(utilidad.identifyParesimpares(arreglo, "error"));
+             
      }
 }
